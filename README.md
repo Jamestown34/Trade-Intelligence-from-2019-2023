@@ -37,6 +37,8 @@ Values are in USD thousands and represent the total import value by year.
 
 ### 1️⃣ Import Dependency  
 Identified which countries Nigeria relies on the most by computing each country’s share of total imports.
+<img src="https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/trade1.png?raw=true" width="600"/>
+
 
 ### 2️⃣ Volatility Analysis  
 Calculated standard deviation across years to flag partners with unstable trade volumes.
@@ -46,18 +48,12 @@ Computed year-over-year percentage growth and average 5-year growth per country.
 
 ### 4️⃣ Top Contributors  
 Ranked countries by total imports to find Nigeria's biggest suppliers.
+<img src="https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/Trade2.png?raw=true" width="600"/>
 
 ### 5️⃣ Trade Concentration (HHI)  
 Used Herfindahl-Hirschman Index to quantify how concentrated Nigeria’s import sources are.
+<img src="https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/trade3.png?raw=true" width="600"/>
 
-### 6️⃣ COVID-19 Impact  
-Compared pre-pandemic (2019) vs post-pandemic (2020–2021) to highlight disruptions or resilience.
-
-### 7️⃣ Declining Partners  
-Highlighted countries with consistently shrinking export value to Nigeria.
-
-### 8️⃣ Fastest Growing Partners  
-Identified countries with strong positive trends in trade growth post-2021.
 
 ---
 
@@ -99,4 +95,8 @@ Even with a simple dataset, multiple layers of insight can be extracted — from
 Thanks to [ITC](https://www.intracen.org), [WTO](https://www.wto.org), and [Trade Map](https://www.trademap.org/) for open access to international trade data.
 
 > 💡 This is part of a broader portfolio focused on trade analytics, economic modeling, and actionable data science in policy and business.
+
+
+<img src="https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/ChatGPT%20Image%20May%2011%2C%202025%2C%2001_32_20%20PM.png?raw=true" width="700"/>
+
 
