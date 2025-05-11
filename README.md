@@ -1,5 +1,5 @@
 # 📦 Nigeria Import Analytics: Trade Intelligence from 2019–2023  
-![Screenshot](https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/ChatGPT%20Image%20May%2011%2C%202025%2C%2001_32_20%20PM.png)
+![Screenshot](https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/ChatGPT%20Image%20May%2011%2C%202025%2C%2001_32_20%20PM.png?raw=true" width="700"/>)
 
 ## 📌 Introduction
 
