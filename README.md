@@ -1,4 +1,4 @@
-# 📦 Nigeria Import Trade Intelligence from 2019–2023  
+# 📦 Nigeria Import Trade Intelligence from 2019–2023 (HS 85)
 <img src="https://github.com/Jamestown34/Trade-Intelligence-from-2019-2023/blob/main/Trade/ChatGPT%20Image%20May%2011%2C%202025%2C%2001_32_20%20PM.png?raw=true" width="400"/>
 
 ## 📌 Introduction
